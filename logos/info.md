@@ -2,8 +2,8 @@
 
 ## COLORS
 
-+ main-color [black] - ;
-+ sec-color [purple] - ;
++ main-color [black] - #212121;
++ sec-color [purple] - #853cd0;
 
 ## FONT
 
